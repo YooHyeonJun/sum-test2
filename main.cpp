@@ -3,6 +3,6 @@
 #include "sum.h"
 
 int main() {
-	int s = sum(11);
+	int s = sum(12);
 	printf("result=%d\n", s);
 }
